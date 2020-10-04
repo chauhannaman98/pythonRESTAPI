@@ -9,6 +9,7 @@ heroku = "*"
 [packages]
 flask = "*"
 gunicorn = "*"
+flask-restful = "*"
 
 [requires]
 python_version = "3.8"
